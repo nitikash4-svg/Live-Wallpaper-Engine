@@ -30,10 +30,10 @@ Download the repository as a ZIP file from GitHub and extract it to a folder on 
 Alternatively, clone the repository using Git:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Live-Wallpaper-Engine.git
+git clone https://github.com/nitikash4-svg/Live-Wallpaper-Engine.git
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+
 
 ### Step 2: Keep Both Files in the Same Folder
 
